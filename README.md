@@ -1,1 +1,4 @@
-# getting-data-python
+# getting-data-python  
+
+- The importance of getting data  
+- useful libraries  
